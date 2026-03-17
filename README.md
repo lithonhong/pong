@@ -5,7 +5,7 @@
 
 This project is created with the aim of familiarising myself with the Canvas API.
 
-Play the game [here](lithonhong.github.io/pong)!
+Play the game [here](https://lithonhong.github.io/pong/)!
 
 
 ## Further Implementation
