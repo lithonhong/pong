@@ -1,5 +1,6 @@
 # Pong!
 
+![A screenshot of the project.](assets/ss.png)
 
 **Pong!** is a quick 2-player game where players control paddles to hit a ball in order to score goals at the opponent's side.
 
